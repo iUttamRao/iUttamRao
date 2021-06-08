@@ -1,9 +1,4 @@
 # Hi there, I'm Uttam Rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<br />
-Visitors:
-<br />
-
-![](https://visitor-badge.glitch.me/badge?page_id=iUttamRao.iUttamRao)
 
 ## I'm a Geeky and Developer!!
 
@@ -20,6 +15,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [<img align="left" alt="Uttam Rao | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Uttam Rao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+![](https://visitor-badge.glitch.me/badge?page_id=iUttamRao.iUttamRao)
 
 <br />
 
