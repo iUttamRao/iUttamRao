@@ -1,5 +1,7 @@
 # Hi there, I'm Uttam Rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<br />
+Visitors:
+![](https://visitor-badge.glitch.me/badge?page_id=IiUttamRao.iUttamRao)
 ## I'm a Geeky and Developer!!
 
 - 🌱 I’m currently learning everything 😁 
