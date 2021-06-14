@@ -2,10 +2,10 @@
 
 ## I'm a Geeky and Developer!!
 
-- 🌱 I’m currently learning everything 😁 
+- 🌱 I’m currently learning everything. 😁 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡  I love to play Cricket and Chess
+- ⚡  I love to play Cricket, Badminton and Chess.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
