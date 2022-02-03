@@ -130,12 +130,12 @@
   
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/iUttamRao"><img alt="iUttamRao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%20Rao's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/iUttamRao"><img alt="iUttamRao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%20Rao's%20Contribution%20Graph&theme=gruvbox" /></a>
   <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iUttamRao&layout=compact&theme=algolia" alt="iUttamRao" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iUttamRao&layout=compact&theme=gruvbox" alt="iUttamRao" />
 </a> 
 </p>
 
