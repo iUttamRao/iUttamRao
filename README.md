@@ -3,8 +3,11 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
- 
-https://visitor-badge-reloaded.herokuapp.com/badge?page_id=iUttamRao
+  
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=iUttamRao&label=Profile%20views&color=0e75b6&style=plastic" alt="Uttam Rao" />  
+	</a>
+</p>
 - 🌱 I’m currently learning everything. 😁 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
