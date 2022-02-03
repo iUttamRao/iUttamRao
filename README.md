@@ -5,7 +5,7 @@
 </p>
   
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=iUttamRao&label=Profile%20views&color=0e75b6&style=plastic" alt="Uttam Rao" />  
+	<img src="https://komarev.com/ghpvc/?username=iUttamRao&label=Visitors&color=0e75b6&style=plastic" alt="Uttam Rao" />  
 	</a>
 </p>
 - 🌱 I’m currently learning everything. 😁 
