@@ -8,10 +8,12 @@
 	<img src="https://komarev.com/ghpvc/?username=iUttamRao&label=VISITORS&color=blueviolet&style=plastic" alt="Uttam Rao" />  
 	</a>
 </p>
-- 🌱 I’m currently learning everything. 😁 
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- ⚡  I love to play Cricket, Badminton and Chess.
+
+## :sassy_man:  About me
+-: 🌱 I’m currently learning everything. 😁 
+-: 👯 I’m looking to collaborate with other content creators.
+-: 🥅 2022 Goals: Contribute more to Open Source projects.
+-: ⚡  I love to play Cricket, Badminton and Chess.
 
 
 ## Connect with me:
