@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
  
-https://visitor-badge.laobi.icu/badge?page_id=iUttamRao.visitor-badge
+![visitors]https://visitor-badge.laobi.icu/badge?page_id=iUttamRao.visitor-badge
 - 🌱 I’m currently learning everything. 😁 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
