@@ -8,6 +8,7 @@
 	<img src="https://komarev.com/ghpvc/?username=iUttamRao&label=VISITORS&color=blueviolet&style=plastic" alt="Uttam Rao" />  
 	</a>
 </p>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3166bthvegiv2pycr7vfxumspmfy&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=3166bthvegiv2pycr7vfxumspmfy&redirect=true)
 
 ## :sassy_man:  About me
