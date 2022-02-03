@@ -131,7 +131,7 @@
   
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/iUttamRao"><img alt="iUttamRao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%Rao's 20Contribution 20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/iUttamRao"><img alt="iUttamRao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%20Rao's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
