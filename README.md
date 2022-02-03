@@ -7,9 +7,7 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=iUttamRao&label=VISITORS&color=blueviolet&style=plastic" alt="Uttam Rao" />  
 	</a>
-	
 </p>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3166bthvegiv2pycr7vfxumspmfy)
 
 ## :sassy_man:  About me
 
