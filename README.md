@@ -108,7 +108,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Kali-557C946?style=plastic&logo=kali&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Kali-0078D6?style=plastic&logo=kalilinux&logoColor=white"></a>
 
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
