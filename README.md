@@ -128,7 +128,12 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
----
+  
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/iUttamRao"><img alt="iUttamRao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%Rao's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
 
 [facebook]: https://facebook.com/iUttamRao
 [twitter]: https://twitter.com/iUttamRao
