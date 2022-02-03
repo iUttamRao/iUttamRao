@@ -67,7 +67,7 @@
   </a> 
 &emsp;
   <a href="https://https://reactjs.org/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/React JS%20-%231572B6.svg?style=plastic&logo=react&logoColor=white">
   </a>
 </p>
 
@@ -108,7 +108,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Kali-0078D6?style=plastic&logo=kali&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Kali-0078D6?style=plastic&logo=557C94&logoColor=white"></a>
 
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
