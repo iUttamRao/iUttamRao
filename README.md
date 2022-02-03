@@ -3,14 +3,15 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Computer+Science+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
+<p align="center"> 
+	![](https://visitor-badge.glitch.me/badge?page_id=iUttamRao.iUttamRao)
+</p>
 
 - 🌱 I’m currently learning everything. 😁 
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡  I love to play Cricket, Badminton and Chess.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 ## Connect with me:
 
@@ -19,7 +20,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Uttam Rao | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-![](https://visitor-badge.glitch.me/badge?page_id=iUttamRao.iUttamRao)
+
 
 <br />
 
