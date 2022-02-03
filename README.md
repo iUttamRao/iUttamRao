@@ -10,10 +10,11 @@
 </p>
 
 ## :sassy_man:  About me
--: 🌱 I’m currently learning everything. 😁 
--: 👯 I’m looking to collaborate with other content creators.
--: 🥅 2022 Goals: Contribute more to Open Source projects.
--: ⚡  I love to play Cricket, Badminton and Chess.
+
+- 🌱 I’m currently learning everything. 😁 
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡  I love to play Cricket, Badminton and Chess.
 
 
 ## Connect with me:
