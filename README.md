@@ -125,8 +125,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iUttamRao&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iUttamRao&theme=gruvbox&hide_border=true" />
 </p>
-  &nbsp;
-	<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iUttamRao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="iUttamRao" height="192px"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iUttamRao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="iUttamRao" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   
