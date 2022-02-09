@@ -136,7 +136,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iUttamRao&layout=compact&theme=algolia" alt="iUttamRao" />
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iUttamRao&layout=compact&theme=algolia" alt="iUttamRao" />
 </a> 
 </p>
 
