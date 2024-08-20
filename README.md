@@ -132,7 +132,7 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=3166bthvegiv2pycr7vfxu
   
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/iUttamRao"><img alt="iUttamRao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%20Rao's%20Contribution%20Graph&theme=react-dark" /></a>
+   [![Uttam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iUttamRao&theme=dracula)]()
   <br/>
 
 ## :trophy: Git profile Trophies
