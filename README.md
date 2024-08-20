@@ -129,11 +129,6 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=3166bthvegiv2pycr7vfxu
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iUttamRao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="iUttamRao" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-  
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   [![Uttam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iUttamRao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  <br/>
 
 ## :trophy: Git profile Trophies
 
