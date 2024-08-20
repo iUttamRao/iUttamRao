@@ -132,7 +132,7 @@ https://spotify-github-profile.kittinanx.com/api/view?uid=3166bthvegiv2pycr7vfxu
   
  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   [![Uttam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iUttamRao&theme=dracula)]()
+   [![Uttam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iUttamRao&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
 
 ## :trophy: Git profile Trophies
