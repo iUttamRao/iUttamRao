@@ -12,7 +12,7 @@
 ## :sassy_man:  About me
 
 - 🌱 I’m currently learning everything. 😁 
-- 👯 I’m looking to collaborate with other content creators.
+- 👯 I’m looking to collaborate with other coders.
 - ⚡  I love to play Cricket, Badminton and Chess.
 
 
